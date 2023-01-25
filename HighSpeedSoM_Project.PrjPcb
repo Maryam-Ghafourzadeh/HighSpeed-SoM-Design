@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=LPDDR$_SDRAM_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Sheet2.SchDoc
+DocumentPath=LPDDR$_SDRAM_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OFKAOPVF
 
 [Document4]
-DocumentPath=Sheet3.SchDoc
+DocumentPath=EMMC_Chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YYOYCIPX
 
 [Document5]
-DocumentPath=Sheet4.SchDoc
+DocumentPath=WIFI Module_WF60.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IGORILKD
 
 [Document6]
-DocumentPath=Sheet5.SchDoc
+DocumentPath=Power Pins Page of RK3399.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UOKSXALP
 
 [Document7]
-DocumentPath=Sheet6.SchDoc
+DocumentPath=RK3399 SDRAM Page.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,6 +166,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTKVSVMT
+
+[Document8]
+DocumentPath=Block Diagram of SOM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IRZMZQGZ
 
 [Configuration1]
 Name=Sources
